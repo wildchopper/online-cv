@@ -16,7 +16,9 @@ sidebar:
     email: mesilsa01@mail.ru
     phone: 063 756 88 47
     timezone: CET Timezone
-    citizenship: Russia
+    citizenship: Russian Federation
+    city: Belgrade
+    country: Serbia
 
     languages:
       title: Languages
